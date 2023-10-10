@@ -1,0 +1,46 @@
+body{
+
+    background-color: black;
+}
+
+/* h1{
+    color:aqua
+} */
+
+#first{
+    color: #0f4bab;
+}
+
+#second{
+    color: #0f4bab;
+}
+
+.item{
+    color:aqua;
+}
+
+.item2{
+    color:blueviolet;
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    text-decoration: overline;
+    text-decoration-color: bisque ;
+}
+
+/* .main-head h1{
+    color:aqua
+} */
+
+.main-head h1:nth-child(1){
+    color: rgb(160, 28, 204);
+}
+
+.main-head h1:nth-child(2){
+    color: rgb(45, 239, 20);
+}
+
+.main-head h1:nth-child(3){
+    color: rgb(56, 147, 130);
+}
+
+

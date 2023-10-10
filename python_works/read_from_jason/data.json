@@ -1,0 +1,6 @@
+[
+{"name":"django","side":"backend","rating":4,"launguage":"python"},
+{"name":"angular","side":"frontend","rating":3,"launguage":"typescript"},
+{"name":"fastapi","side":"backend","rating":3,"launguage":"python"},
+{"name":"react","side":"frontend","rating":5,"launguage":"javascript"}
+]
